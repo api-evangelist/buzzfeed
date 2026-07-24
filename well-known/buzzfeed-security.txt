@@ -1,0 +1,2 @@
+Contact: https://www.buzzfeed.com/bug-bounty-program
+Expires: 2025-10-31T00:00:00z
